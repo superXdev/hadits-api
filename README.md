@@ -1,4 +1,7 @@
 # hadits-api
+
+![Cover](https://github.com/superXdev/hadits-api/blob/main/cover.png?raw=true)
+
 Web Rest API kumpulan hadis dari 9 perawi degan total 50k+ lebih hadis antara lain:
 1. bukhari: 7008
 2. muslim: 5362
