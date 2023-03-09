@@ -16,6 +16,34 @@ Web Rest API kumpulan hadis dari 9 perawi degan total 50k+ lebih hadis antara la
 
 __Sumber :__ https://hadits.in
 
+
+# Dokumentasi API
+
+Mengambil semua daftar hadis (10 data / page)
+
+```
+GET /
+```
+
+Mencari banyak hadis berdasarkan terjemahan
+
+```
+GET /search?q=keyword
+```
+
+Mengambil satu hadis berdasarkan perawi dan nomor nya
+
+```
+GET /{perawi}/{nomor}
+```
+
+Mengambil satu hadis berdasarkan ID
+
+```
+GET /id/{id}
+```
+
+
 # Stack
 
 - Nodejs
