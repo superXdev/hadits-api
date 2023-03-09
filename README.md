@@ -16,6 +16,7 @@ Web Rest API kumpulan hadis dari 9 perawi degan total 50k+ lebih hadis antara la
 
 __Sumber :__ https://hadits.in
 
+__Live :__ https://hadits-api.superxdev.repl.co
 
 # Dokumentasi API
 
