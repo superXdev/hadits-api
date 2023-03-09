@@ -60,6 +60,12 @@ git clone https://github.com/superXdev/hadits-api
 ```sh
 npm install
 ```
+
+```sh
+cp .env.example .env
+```
+__Wajib menggunakan rotating proxy untuk scrapper__
+
 Development server
 ```sh
 npm run dev
