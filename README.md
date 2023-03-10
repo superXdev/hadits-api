@@ -2,7 +2,7 @@
 
 ![Cover](https://github.com/superXdev/hadits-api/blob/main/cover.png?raw=true)
 
-Web Rest API kumpulan hadis dari 9 perawi degan total 50k+ lebih hadis antara lain:
+Web Rest API kumpulan hadis dari 9 perawi dengan total 50k+ lebih hadis antara lain:
 1. bukhari: 7008
 2. muslim: 5362
 3. abudaud: 4590
@@ -18,7 +18,7 @@ __Sumber :__ https://hadits.in
 
 __Live :__ https://hadits-api.superxdev.repl.co
 
-# Dokumentasi API
+## Dokumentasi API
 
 Mengambil semua daftar hadis (10 data / page)
 
@@ -45,14 +45,14 @@ GET /id/{id}
 ```
 
 
-# Stack
+## Stack
 
 - Nodejs
 - Expressjs
 - Sequelize
 - Cheerio (scrap)
 
-# Instalation
+## Instalation
 
 ```sh
 git clone https://github.com/superXdev/hadits-api
@@ -80,7 +80,7 @@ npm start
 ## Scrapping
 
 ```sh
-node scrapper.js
+node scrap.js
 ```
 
 ## License
