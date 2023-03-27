@@ -83,6 +83,9 @@ npm start
 node scrap.js
 ```
 
+## Sponsor
+https://suksesmm.com - SMM Panel Indonesia
+
 ## License
 
 This software licensed under the [MIT license](https://opensource.org/licenses/MIT).
