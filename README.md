@@ -84,7 +84,7 @@ node scrap.js
 ```
 
 ## Sponsor
-https://suksesmm.com - SMM Panel Indonesia
+https://suksesmm.net- SMM Panel Indonesia
 
 ## License
 
